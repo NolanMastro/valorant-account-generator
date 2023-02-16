@@ -31,7 +31,7 @@ r = RandomWords()
 
 
 if not os.environ["webhook"]:
-    raise Exception("Please enter a number in the .env file for how many accounts to make.")
+    raise Exception("Please enter a webhook url in the .env file to send the accounts.")
 else:
     discord_webhook_url = os.environ["webhook"]
 
