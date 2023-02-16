@@ -1,0 +1,3 @@
+catchall = "@catchallhere.com" #You can get a catchall from namecheap.com
+password = "Whatever you want the password for them to be."
+webhook = 'Your discord webhook url.'
