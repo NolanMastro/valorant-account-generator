@@ -12,7 +12,7 @@ A basic selenium based valorant account generator.
 1. Clone the repository, and install dependancies.
 
 ``
-git clone https://github.com/NolanMastro/depop-bot](https://github.com/NolanMastro/valorant-account-generator
+git clone https://github.com/NolanMastro/valorant-account-generator
 ``
 
 ``
